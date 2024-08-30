@@ -22,5 +22,14 @@
 
 <h4>When useds</h4>
 
-- https://cj1.kinsle.ru - demo with [admin panel](https://cj1.kinsle.ru)
+- https://cj1.kinsle.ru - demo with [admin panel](https://cj1.kinsle.ru/admin)
 - https://mikestireauto.com/ - real usage this based stack
+
+
+<h4>Possible results</h4>
+
+| [proof](https://pagespeed.web.dev/analysis/https-mikestireauto-com-categories-Incest/lywdsefpaf?form_factor=mobile) | [proof](https://pagespeed.web.dev/analysis/https-mikestireauto-com-story-3-a-sons-revenge-part-3-4/0tp45hpzsf?form_factor=mobile) |
+| -------- | ------- |
+| ![image](https://github.com/user-attachments/assets/2866d2e8-816d-4d04-9f0c-b7c0d116f94c) | ![image](https://github.com/user-attachments/assets/060d95ab-ae76-49c1-8ac5-1b5e494f1101) |
+
+
