@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% macro Title %}Home{% end %}
+{% macro Content %}
+<section id="app-content">
+    <div class="contacts">
+        {% for line in feed %}
+        <li><a href="/{{ line.ID }}">{{ line.Title}}</a> ({{ line.Author }})</li>
+        {% end %}
+    </div>
+</section>
+{% end %}
+{% macro Footer %}
+<footer>(c) My Website</footer>
+{% end %}

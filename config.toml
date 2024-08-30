@@ -1,0 +1,11 @@
+[server]
+host="cj1.kinsle.ru"
+port=3000
+
+[site]
+name="Cj 1!"
+
+[random.post]
+minYear=2015
+maxYear=2023
+maxShortSymasdsad=180
